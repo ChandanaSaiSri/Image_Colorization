@@ -1,9 +1,4 @@
 # Image_Colorization
-
-
-User
-write a small description about the project image colorization using unet and gan
-ChatGPT
 Project Description: Image Colorization with U-Net and GAN
 
 This innovative project revolves around the captivating realm of image colorization, employing a dynamic fusion of U-Net architecture and Generative Adversarial Networks (GANs). The primary objective is to breathe vibrant life into grayscale images by predicting and infusing realistic colors, thereby enhancing visual appeal and realism.
